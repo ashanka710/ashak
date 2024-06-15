@@ -30,7 +30,7 @@ function App() {
           <div className="space-y-4">
             <a
               href="#contact"
-              className=" bg-blue-500 text-white px-4 py-2 rounded-full inline-block hover:bg-blue-600 transition duration-300 "id='hello'
+              className=" bg-blue-500 text-white px-4 py-2 rounded-full inline-block hover:bg-blue-600 transition duration-300  h-9 "id='hello'
             >
               Hello!
             </a>
